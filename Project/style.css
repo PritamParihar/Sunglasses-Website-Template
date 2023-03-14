@@ -1,0 +1,54 @@
+html {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+}
+
+.footer {
+  margin-top: auto;
+}
+
+.featurette-divider {
+    margin: 5rem 0; 
+  }
+.featurette-heading {
+    letter-spacing: -.05rem;
+    margin-top: 7rem;
+    font-size: 50px;
+
+  }
+
+.back{
+  background-color: #28282B; 
+
+}
+
+.caa{
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  position: relative;
+  margin-top: 10%;
+  
+}
+
+
+
+/* .card {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  width: 300px;
+} */
+
+
+.baa{
+  background-color :#FFA500;
+}
+.wh{
+  color: aliceblue;
+}
